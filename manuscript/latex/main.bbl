@@ -1,0 +1,57 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chen and Abara(2024)]{chen2024}
+L.~Chen and D.~Abara.
+\newblock A high-resolution reddening map toward the southern galactic bulge
+  from red clump giants.
+\newblock \emph{Journal of Synthetic Astrophysics}, 13:\penalty0 412--430,
+  2024.
+\newblock FICTIONAL. papers/Chen_Abara_2024_bulge_reddening_map.pdf.
+
+\bibitem[Haddad et~al.(2021)Haddad, Tanaka, and Ruiz]{haddad2021}
+R.~Haddad, S.~Tanaka, and M.~Ruiz.
+\newblock Discovery of kestrel-7: a faint, reddened globular cluster behind the
+  galactic bulge.
+\newblock \emph{Proceedings of the Mock Astronomical Society}, 48:\penalty0
+  233--241, 2021.
+\newblock FICTIONAL. papers/Haddad_Tanaka_Ruiz_2021_Kestrel7_discovery.pdf.
+
+\bibitem[Lomb(1976)]{lomb1976}
+N.~R. Lomb.
+\newblock Least-squares frequency analysis of unequally spaced data.
+\newblock \emph{Astrophysics and Space Science}, 39:\penalty0 447--462, 1976.
+
+\bibitem[Moreau et~al.(2022)Moreau, Adeyemi, and S{\o}rensen]{moreau2022}
+J.~Moreau, K.~Adeyemi, and P.~S{\o}rensen.
+\newblock The oosterhoff dichotomy in halo globular clusters revisited.
+\newblock \emph{Journal of Synthetic Astrophysics}, 11:\penalty0 57--80, 2022.
+\newblock FICTIONAL. papers/Moreau_etal_2022_Oosterhoff_dichotomy.pdf.
+
+\bibitem[Okafor and Lindqvist(2023)]{okafor2023}
+N.~Okafor and E.~Lindqvist.
+\newblock An i-band period--luminosity calibration for galactic field rr lyrae
+  stars from trigonometric parallaxes.
+\newblock \emph{Journal of Synthetic Astrophysics}, 12:\penalty0 101--118,
+  2023.
+\newblock FICTIONAL. papers/Okafor_Lindqvist_2023_RRLyrae_PL_calibration.pdf.
+
+\bibitem[Petrov(2019)]{petrov2019}
+A.~Petrov.
+\newblock Fourier decomposition of rr lyrae light curves: Practical methods and
+  common pitfalls.
+\newblock \emph{Monthly Notes of Synthetic Photometry}, 7:\penalty0 22--39,
+  2019.
+\newblock FICTIONAL. papers/Petrov_2019_Fourier_decomposition_methods.pdf.
+
+\bibitem[Scargle(1982)]{scargle1982}
+J.~D. Scargle.
+\newblock Studies in astronomical time series analysis. ii. statistical aspects
+  of spectral analysis of unevenly spaced data.
+\newblock \emph{The Astrophysical Journal}, 263:\penalty0 835--853, 1982.
+
+\end{thebibliography}
