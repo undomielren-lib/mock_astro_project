@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Mock research project for teaching and documentation exercises. All data are synthetic."
+title: "Kestrel-7 RR Lyrae Period-Luminosity Distance (mock project)"
+authors:
+  - family-names: Azartash
+    given-names: Bianca
+    affiliation: "University of Oklahoma Libraries"
+version: 0.1.0
+date-released: 2026-10-30
+license: CC-BY-4.0
+keywords: [RR Lyrae, globular clusters, period-luminosity relation, distance scale, synthetic data]
