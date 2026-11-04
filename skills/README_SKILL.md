@@ -1,7 +1,11 @@
 ---
 name: dataset-readme
-description: Create a README.md for a research dataset or data repository using the OU Libraries author dataset README template. Use when asked to write, generate, or update a README for a dataset, data package, or research repository.
+description: Create a README.md for a research dataset or data repository using the README template. Use when asked to write, generate, or update a README for a dataset, data package, or research repository.
 ---
+
+# Template source and reuse
+
+This skill adapts Wendy Kozlowski’s (2025) Readme Template for Data, Cornell University eCommons Repository, https://doi.org/10.7298/mhns-zm71.2. The template is shared under the Creative Commons CC0 1.0 Universal Public Domain Dedication. Attribution is appreciated when re-sharing, but not required; citation is not required when using the template to document data or software.
 
 # Dataset README
 
